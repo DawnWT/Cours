@@ -474,9 +474,9 @@ Un peu austère aux premiers abords, une manipulation très basique permet d'avo
   - prenez moi des screens des trames en question
   - on va prendre l'habitude d'utiliser Wireshark souvent dans les cours, pour visualiser ce qu'il se passe
 
-ping ![1](./assets/wireshark_ping.png)
-netcat ![2](./assets/wireshark_netcat.png)
-dns ![3](./assets/wireshark_dns.png)
+ping ![1](../assets/wireshark_ping.png)
+netcat ![2](../assets/wireshark_netcat.png)
+dns ![3](../assets/wireshark_dns.png)
 
 # Bilan
 
