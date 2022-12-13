@@ -1,0 +1,14 @@
+use app_db;
+create table if not exists word (id INT(10) NOT NULL AUTO_INCREMENT, content varchar(255) not null, PRIMARY KEY (`id`));
+insert into word (content) values ("outrageous");
+insert into word (content) values ("ship");
+insert into word (content) values ("cakes");
+insert into word (content) values ("refuse");
+insert into word (content) values ("five");
+insert into word (content) values ("panoramic");
+insert into word (content) values ("radiate");
+insert into word (content) values ("classy");
+insert into word (content) values ("daffy");
+insert into word (content) values ("rain");
+insert into word (content) values ("aboard");
+insert into word (content) values ("scrawny");
